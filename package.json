@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "fs-extra": "^11.1.1",
+    "http": "^0.0.1-security",
+    "moment": "^2.29.4"
+  },
+  "name": "1",
+  "version": "1.0.0",
+  "description": "1",
+  "main": "1",
+  "scripts": {
+    "test": "1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "1"
+  },
+  "keywords": [
+    "1"
+  ],
+  "author": "1",
+  "license": "ISC"
+}
